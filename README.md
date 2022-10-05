@@ -5,7 +5,7 @@
 <p><a href="https://nls-romerike.netlify.app/">https://nls-romerike.netlify.app/</a></p>
 
 <br/>
-👀 I’m currently searching for work as a frontend developer. 
+👀 I’m currently searching for work as a junior frontend developer. 
 <br/>
 🌱 I am currently learning object-oriented programming in order to expand my JavaScript knowledge.
 
